@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+test2 maina
+=======
+qwasdasdasdasdasdasd
+>>>>>>> test_dev
